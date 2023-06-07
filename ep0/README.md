@@ -14,7 +14,7 @@
   `Hello world` devrait s'afficher à l'écran.
 - [pour Windows] Ouvrir le `Microsoft Store`. Dans la barre de recherche (en haut), écrire `code writer` et appuyer sur
   `Entrée`.
-  * cliquer sur la case `Code Writer` qui a un logo rouge [code write logo](ep0/code-writer-logo.jpeg).
+  * cliquer sur la case `Code Writer` qui a un logo rouge ![code write logo](code-writer-logo.jpeg).
   * cliquer sur `Installer`
 - Ouvrir le fichier `javascript/episode.js` avec un éditeur de texte (par exemple, `Code Writer` sous Windows ou `Gedit`
   sous Linux).
