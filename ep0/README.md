@@ -1,7 +1,7 @@
 ## Épisode 0 : comprendre le rôle des fichiers utilisés
 * [episode.html](episode.html) : le fichier à ouvrir avec votre navigateur Internet (Firefox, Chrome, Safari, etc.)
 * [README.md](README.md) : instructions sur cet épisode (ce que vous êtes en train de lire)
-* [javascript/episode.js](javascript/episode.html) : le code informatique qui est exécuté lorsque vous ouvrez le fichier
+* [javascript/episode.js](javascript/episode.js) : le code informatique qui est exécuté lorsque vous ouvrez le fichier
   `episode.html` avec votre navigateur.
 
 ### Exercice
