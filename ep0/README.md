@@ -21,7 +21,8 @@
   sous Linux).
   * [pour Windows] Clic-droit sur le fichier > Ouvrir avec > Choisir `Code Writer`
   * [pour Linux] Double-clic sur le fichier
-- Modifier le texte `Hello world` en `Bienvenue à la maison`
-- Sauvegarder le fichier ([Windows] dans `Code Writer`, cliquer sur la disquette en haut à gauche, [Linux] dans `Gedit`
-  cliquer sur `Sauvegarder` en haut à droite)
+- Modifier le texte `Hello world` en `Bienvenue à la maison`.
+- Sauvegarder le fichier
+  * [pour Windows] dans `Code Writer`, cliquer sur la disquette en haut à gauche
+  * [Linux] dans `Gedit`, cliquer sur `Sauvegarder` en haut à droite
 - Actualiser la page Internet de votre navigateur en cliquant sur rafraichir ou en appuyant sur la touche F5.
