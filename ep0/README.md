@@ -20,7 +20,7 @@ fichier se trouve le code informatique, comment le modifier et comment l'exécut
   sur le lien pour télécharger tous les épisodes
 - Aller dans votre dossier `Téléchargements` et décompresser le fichier (par exemple, clic-droit > extraire tous les
   fichiers)
-- Ouvrir le dossier `info7tik-decouverte-programmation`
+- Ouvrir le répertoire `info7tik-decouverte-programmation` puis le répertoire `exercice`
 - Ouvrir le fichier `episode.html` avec votre navigateur Internet
   * double-cliquer sur le fichier
 - Le message `Hello world` devrait s'afficher à l'écran
