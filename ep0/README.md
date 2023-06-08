@@ -7,9 +7,11 @@ Pour chaque épisode, il y a 2 répertoires : `exercice` et `solution`. Le répe
 complets, la solution de l'exercice. Dans chaque répertoire, on retrouve les fichiers suivants :
 * [episode.html](exercice/episode.html) : le fichier à ouvrir avec votre navigateur Internet (Firefox, Chrome, Safari,
   Microsoft Edge, etc.)
-* [README.md](exercice/README.md) : instructions sur cet épisode (ce que vous êtes en train de lire)
+* [README.md](README.md) : instructions sur cet épisode (ce que vous êtes en train de lire)
 * [javascript/episode.js](exercice/javascript/episode.js) : le code informatique qui est exécuté lorsque vous ouvrez le
-  fichier `episode.html` avec votre navigateur.
+  fichier `episode.html` avec votre navigateur. C'est ce fichier qui sera modifié pendant cet exercice.
+* [javascript/outils.js](exercice/javascript/outils.js) : les outils qui aideront à coder. Ces outils seront utilisés
+  dans le fichier `episode.js`.
 
 ### But de l'épisode
 Le but de ce premier épisode est de comprendre le rôle de chaque fichier. À la fin de cet épisode, vous saurez dans quel
