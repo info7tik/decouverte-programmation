@@ -11,6 +11,10 @@ complets, la solution de l'exercice. Dans chaque répertoire, on retrouve les fi
 * [javascript/episode.js](exercice/javascript/episode.js) : le code informatique qui est exécuté lorsque vous ouvrez le
   fichier `episode.html` avec votre navigateur.
 
+### But de l'épisode
+Le but de ce premier épisode est de comprendre le rôle de chaque fichier. À la fin de cet épisode, vous saurez dans quel
+fichier se trouve le code informatique, comment le modifier et comment l'exécuter.
+
 ### Exercice
 - Aller sur la page principale du projet ([celle-ci](https://github.com/info7tik/decouverte-programmation)) et cliquer
   sur le lien pour télécharger tous les épisodes
