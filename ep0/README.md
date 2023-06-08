@@ -37,4 +37,6 @@ fichier se trouve le code informatique, comment le modifier et comment l'exécut
 - Sauvegarder le fichier
   * [pour Windows] dans `Code Writer`, cliquer sur la disquette en haut à gauche
   * [Linux] dans `Gedit`, cliquer sur `Sauvegarder` en haut à droite
-- Actualiser la page Internet de votre navigateur en cliquant sur rafraichir ou en appuyant sur la touche F5.
+- Pour exécuter le fichier `javascript/episode.js` à nouveau, il suffit de recharger la page.
+  * Appuyer sur le bouton `Actualiser` ou sur la touche F5.
+- Le message `Bienvenue à la maison` apparaît.
