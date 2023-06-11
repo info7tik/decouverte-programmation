@@ -24,21 +24,21 @@ fichier se trouve le code informatique, comment le modifier et comment l'exécut
   fichiers)
 3. Ouvrir le répertoire `info7tik-decouverte-programmation` puis le répertoire `exercice`
 4. Ouvrir le fichier `episode.html` avec votre navigateur Internet
-  * double-cliquer sur le fichier
+   * double-cliquer sur le fichier
 5. Le message `Hello world` devrait s'afficher à l'écran
 6. [pour Windows] Ouvrir le `Microsoft Store`. Dans la barre de recherche (en haut), écrire `code writer` et appuyer sur
   `Entrée`.
-  * cliquer sur la case `Code Writer` qui a ce logo :
+   * cliquer sur la case `Code Writer` qui a ce logo :
   <br/><img src="code-writer-logo.jpeg" alt="logo de code writer" width="100" height="150"><br/>
-  * cliquer sur `Installer`
+   * cliquer sur `Installer`
 7. Ouvrir le fichier `javascript/episode.js` avec un éditeur de texte (par exemple, `Code Writer` sous Windows ou `Gedit`
   sous Linux).
-  * [pour Windows] Clic-droit sur le fichier > Ouvrir avec > Choisir `Code Writer`
-  * [pour Linux] Double-clic sur le fichier
+   * [pour Windows] Clic-droit sur le fichier > Ouvrir avec > Choisir `Code Writer`
+   * [pour Linux] Double-clic sur le fichier
 8. Modifier le texte `Hello world` en `Bienvenue à la maison`.
 9. Sauvegarder le fichier
-  * [pour Windows] dans `Code Writer`, cliquer sur la disquette en haut à gauche
-  * [Linux] dans `Gedit`, cliquer sur `Sauvegarder` en haut à droite
+   * [pour Windows] dans `Code Writer`, cliquer sur la disquette en haut à gauche
+   * [Linux] dans `Gedit`, cliquer sur `Sauvegarder` en haut à droite
 10. Pour exécuter le fichier `javascript/episode.js` à nouveau, il suffit de recharger la page.
-  * Appuyer sur le bouton `Actualiser` ou sur la touche F5.
-11. Le message `Bienvenue à la maison` apparaît.
+    * Appuyer sur le bouton `Actualiser` ou sur la touche F5.
+12. Le message `Bienvenue à la maison` apparaît.
