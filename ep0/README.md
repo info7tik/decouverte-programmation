@@ -1,4 +1,6 @@
 ## Épisode 0 : Comprendre le rôle des fichiers utilisés 
+
+### Introduction
 Le but de chaque épisode est de présenter rapidement une notion ou un élément de la programmation en informatique. Dans
 chaque épisode, il y a un exercice à réaliser afin de mettre en pratique et de comprendre le concept abordé.
 
