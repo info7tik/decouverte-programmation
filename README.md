@@ -2,7 +2,7 @@
 Une courte série d'exercices pour découvrir les grands principes de la programmation.
 
 ## Description des épisodes
-- ep0 : [comprendre le rôle des fichiers utilisés](ep0)
+- ep0 : [Comprendre le rôle des fichiers utilisés](ep0)
 - ep1 : [Langages de programmation, variables et fonctions](ep1)
 - ep2 : Langages de programmation et structures de contrôle (à venir)
 - ep3 : Typage des données (à venir)
