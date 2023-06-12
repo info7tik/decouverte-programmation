@@ -1,15 +1,26 @@
-## Épisode 0 : comprendre le rôle des fichiers utilisés
+## Épisode 1 : Langages de programmation, variables et fonctions
 Le but de chaque épisode est de présenter rapidement une notion ou un élément de la programmation en informatique. Dans
 chaque épisode, il y a un exercice à réaliser afin de mettre en pratique et de comprendre le concept abordé.
 
-Pour chaque épisode, il y a 2 répertoires : `exercice` et `solution`. Le répertoire `exercice` contient les fichiers
-à modifier pour comprendre les notions abordées dans l'épisode. Le répertoire `solution` contient les fichiers
-complets, la solution de l'exercice. Dans chaque répertoire, on retrouve les fichiers suivants :
-* [episode.html](exercice/episode.html) : le fichier à ouvrir avec votre navigateur Internet (Firefox, Chrome, Safari,
+Pour chaque épisode, il y a 3 répertoires : `cours`, `exercice` et `solution`.
+
+Le répertoire `cours` contient les exemples des notions abordées dans l'épisode. Il est lié à une vidéo qui explique
+son contenu (le lien sera présent ici dès que la vidéo sera disponible).
+
+Le répertoire `exercice` contient les fichiers à utiliser pour réaliser l'exercice présenté à la section
+[Exercice](#exercice). Pour réaliser l'exercice, l'unique fichier à modifier est `javascript/episode.js`. Pour voir le
+résultat de votre code, il suffit d'ouvrir le fichier `exercice/episode.html` avec un navigateur web.
+
+Le répertoire `solution` contient une solution de l'exercice proposé. Vous pouvez alors comparer votre code et le code
+de la solution. Pour cela, il suffit d'ouvrir les fichiers `exercice/javascript/episode.js` et le fichier
+`solution/javascript/episode.js`.
+
+Ces trois répertoires contiennent les mêmes fichiers, c'est-à-dire :
+* [episode.html](exercice/episode.html) : le fichier à ouvrir avec votre navigateur web (Firefox, Chrome, Safari,
   Microsoft Edge, etc.)
-* [README.md](README.md) : instructions sur cet épisode (ce que vous êtes en train de lire)
+* [README.md](README.md) : instructions de cet épisode (ce que vous êtes en train de lire)
 * [javascript/episode.js](exercice/javascript/episode.js) : le code informatique qui est exécuté lorsque vous ouvrez le
-  fichier `episode.html` avec votre navigateur. C'est ce fichier qui sera modifié pendant cet exercice.
+  fichier `episode.html` avec votre navigateur. C'est ce fichier qu'il faut modifier pendant cet exercice.
 * [javascript/outils.js](exercice/javascript/outils.js) : les outils qui aideront à coder. Ces outils seront utilisés
   dans le fichier `episode.js`.
 
