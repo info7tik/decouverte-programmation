@@ -1,4 +1,4 @@
-## Épisode 1 : Langages de programmation, variables et fonctions
+## Épisode 0 : Comprendre le rôle des fichiers utilisés 
 Le but de chaque épisode est de présenter rapidement une notion ou un élément de la programmation en informatique. Dans
 chaque épisode, il y a un exercice à réaliser afin de mettre en pratique et de comprendre le concept abordé.
 
