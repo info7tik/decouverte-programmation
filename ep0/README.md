@@ -14,8 +14,8 @@ Le répertoire `exercice` contient les fichiers à utiliser pour réaliser l'exe
 résultat de votre code, il suffit d'ouvrir le fichier `exercice/episode.html` avec un navigateur web.
 
 Le répertoire `solution` contient une solution de l'exercice proposé. Vous pouvez alors comparer votre code et le code
-de la solution. Pour cela, il suffit d'ouvrir les fichiers `exercice/javascript/episode.js` et le fichier
-`solution/javascript/episode.js`.
+de la solution. Pour cela, il suffit d'ouvrir les fichiers [exercice/javascript/episode.js](exercice/javascript/episode.js)
+et le fichier [solution/javascript/episode.js](solution/javascript/episode.js).
 
 Ces trois répertoires contiennent les mêmes fichiers, c'est-à-dire :
 * [episode.html](exercice/episode.html) : le fichier à ouvrir avec votre navigateur web (Firefox, Chrome, Safari,
